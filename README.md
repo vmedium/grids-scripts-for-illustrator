@@ -2,7 +2,7 @@
 Scripts for creating various grid types in illustrator. 
 
 
-## The Script Types
+## The Script Types [WIP]
 
 ### Square Grid
 - this will produce a series of lines in a square format
@@ -24,7 +24,7 @@ Scripts for creating various grid types in illustrator.
 
 ## Instrucitons for use
 
-### Download the scripts
+### Download the scripts [WIP]
 - In illustrator run the script (CMD+F12)
 - Find the script file and open it
 - this will bring up the panel, change the parameters to your liking
